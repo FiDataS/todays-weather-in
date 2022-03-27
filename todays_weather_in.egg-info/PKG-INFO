@@ -1,11 +1,11 @@
 Metadata-Version: 2.1
 Name: todays-weather-in
-Version: 1.0
+Version: 1.1
 Summary: Showing todays weatherforecast for a locations chosen in the function
 Home-page: https://github.com/FiDataS/todays_weather_in.git
 Author: Franziska Braun
 License: MIT
-Download-URL: https://github.com/FiDataS/todays_weather_in/archive/refs/tags/v1.4.tar.gz
+Download-URL: https://github.com/FiDataS/todays-weather-in/archive/refs/tags/v1.1.tar.gz
 Keywords: weather,weatherforecast
 Platform: UNKNOWN
 
