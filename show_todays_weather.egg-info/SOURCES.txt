@@ -1,8 +1,0 @@
-setup.py
-show_todays_weather.egg-info/PKG-INFO
-show_todays_weather.egg-info/SOURCES.txt
-show_todays_weather.egg-info/dependency_links.txt
-show_todays_weather.egg-info/not-zip-safe
-show_todays_weather.egg-info/top_level.txt
-todays_weather_in/__init__.py
-todays_weather_in/todays_weather_in.py

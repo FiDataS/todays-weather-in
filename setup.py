@@ -8,7 +8,7 @@
 from setuptools import setup
 
 setup(name='todays_weather_in',
-      version='1.4',
+      version='1.0',
       license='MIT',
       description='Showing todays weatherforecast for a locations chosen in the function',
       packages=['todays_weather_in'],

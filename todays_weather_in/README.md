@@ -1,11 +1,11 @@
-# Show_Todays_Weather_Pypi_Package
+# todays_weather_in_Pypi_Package
 With this package one can get the weather forcast of today on a certain location
 
 With this package you will be able to get the weather forecast of today for an inserted location.
 This is a private project and was developed (among other things) as an application of web scraping with beautiful soap.
 
 Installation with pip:
-pip install -i https://test.pypi.org/simple/ show-todays-weather
+pip install -i https://test.pypi.org/simple/ todays-weather-in
 
 To use it, import the function in the following way:
 from todays_weather_in import todays_weather
