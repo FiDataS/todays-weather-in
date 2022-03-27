@@ -9,9 +9,7 @@ import re
 def get_weather_data(url):
     r = requests.get(url)
     soup = bs(r.content,"html5lib") 
-    
     #Get the weather information from this website
-
     #rain:
     rain_raw=soup.find_all("span", class_="precipitation__value")
     #First line is the title, this value we do not need
@@ -60,7 +58,6 @@ def todays_weather(city, country='', state=''):
     - state (optional)
     This function will return todays weather of the requested place.
     """
-    
     q_str = city+' '+country+' '+state
     q_str_list = q_str.split()
     count_input_words=len(q_str_list)
