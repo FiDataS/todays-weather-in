@@ -7,12 +7,15 @@
 
 from setuptools import setup
 
-setup(name='show_todays_weather',
+setup(name='todays_weather_in',
       version='1.3',
       license='MIT',
       description='Showing todays weatherforecast for a locations',
       packages=['todays_weather_in'],
       zip_safe=False,
+      author = 'Franziska Braun',
+      author_email = 'franziska.braunschneider@googlemail.com',
+      url = 'https://github.com/FiDataS/todays_weather_in.git'
       )
 
 #making the package:
