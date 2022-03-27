@@ -53,12 +53,12 @@ def get_weather_data(url):
 def todays_weather(city, country='', state=''):
     """
     This function needs the city you want todays weather for as an argument in 'city'
-    Optionally you can also give the country and/or the state
+    Optionally you can also give the country and/or the state.
     Arguments:
     - city
     - country (optional)
     - state (optional)
-    This function will return todays weather of the requested place
+    This function will return todays weather of the requested place.
     """
     
     q_str = city+' '+country+' '+state
