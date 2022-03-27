@@ -10,7 +10,7 @@ from setuptools import setup
 setup(name='todays_weather_in',
       version='1.3',
       license='MIT',
-      description='Showing todays weatherforecast for a locations',
+      description='Showing todays weatherforecast for a locations chosen in the function',
       packages=['todays_weather_in'],
       zip_safe=False,
       author = 'Franziska Braun',
