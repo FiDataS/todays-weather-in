@@ -15,7 +15,7 @@ setup(name='todays_weather_in',
       zip_safe=False,
       author = 'Franziska Braun',
       url = 'https://github.com/FiDataS/todays_weather_in.git',
-      download_url = 'https://github.com/FiDataS/todays_weather_in/archive/refs/tags/v1.3.tar.gz',
+      download_url = 'https://github.com/FiDataS/todays_weather_in/archive/refs/tags/v1.4.tar.gz',
       keywords = ['weather', 'weatherforecast']
       )
 
